@@ -1,4 +1,4 @@
-install (FILES metronome.desktop DESTINATION ${CMAKE_INSTALL_FULL_DATAROOTDIR}/applications)
+install (FILES com.github.artemanufrij.metronome.desktop DESTINATION ${CMAKE_INSTALL_FULL_DATAROOTDIR}/applications)
 
 install (FILES icons/metronome.svg DESTINATION ${CMAKE_INSTALL_FULL_DATAROOTDIR}/icons/hicolor/)
 install (FILES icons/metronome.svg DESTINATION ${CMAKE_INSTALL_FULL_DATAROOTDIR}/icons/hicolor/48x48/apps/)

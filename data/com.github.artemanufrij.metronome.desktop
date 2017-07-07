@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Version=0.0.1
+Name=Metronome
+Comment=A simple click
+GenericName=Metronome
+Icon=metronome
+Exec=com.github.artemanufrij.metronome %U
+Terminal=false
+Categories=AudioVideo;GNOME;GTK;Audio;
+X-GNOME-Gettext-Domain=metronome
+Actions=AboutDialog;
+Keywords=Metronome;Click
+
+[Desktop Action AboutDialog]
+Exec=metronome --about
+Name=About Metronome
