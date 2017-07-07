@@ -1,4 +1,3 @@
-# metronome
-An elementaryos app
+# metronome for elementary
 
 A simple mentronome
