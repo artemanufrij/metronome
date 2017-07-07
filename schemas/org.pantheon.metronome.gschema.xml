@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema path="/org/pantheon/metronome/" id="org.pantheon.metronome" gettext-domain="metronome">
+        <key name="volume-semibreve" type="d">
+            <default>0.5</default>
+            <summary>Volume semibreve</summary>
+            <description>Volume semibreve</description>
+        </key>
+        <key name="volume-minim" type="d">
+            <default>0</default>
+            <summary>Volume minim</summary>
+            <description>Volume minim</description>
+        </key>
+        <key name="volume-crotchet" type="d">
+            <default>0</default>
+            <summary>Volume crotchet</summary>
+            <description>Volume crotchet</description>
+        </key>
+        <key name="volume-quaver" type="d">
+            <default>0</default>
+            <summary>Volume quaver</summary>
+            <description>Volume quaver</description>
+        </key>
+        <key name="tempo" type="i">
+            <default>120</default>
+            <summary>Tempo</summary>
+            <description>Tempo</description>
+        </key>
+        <key name="beat" type="i">
+            <default>4</default>
+            <summary>Beat</summary>
+            <description>Beat</description>
+        </key>
+        <key name="custom-settings" type="as">
+            <default>['Default:120;4;0.5;0.1;0;0','SKA:140;2;0.5;0.1;0;0','Waltz:92;3;0.5;0;0;0']</default>
+            <summary>Settings</summary>
+            <description>Settings</description>
+        </key>
+    </schema>
+</schemalist>

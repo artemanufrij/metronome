@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+1ea66006554555648f57cff8f2edd290 src/Config.c
+4e6039346ca37e705e75217b0abb5f2a src/metronome_valac.stamp
