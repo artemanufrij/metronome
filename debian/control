@@ -6,6 +6,7 @@ Build-Depends: cmake (>= 2.8),
                cmake-elementary,
                debhelper (>= 9),
                libgstreamer1.0-dev,
+               libgranite-dev,
                valac (>= 0.26)
 Standards-Version: 3.9.3
 
