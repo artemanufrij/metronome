@@ -3,8 +3,8 @@ Section: x11
 Priority: optional
 Maintainer: Artem Anufrij <artem.anufrij@live.de>
 Build-Depends: cmake (>= 2.8),
-               cmake-elementary,
                debhelper (>= 9),
+               libgtk-3-dev (>=3.12),
                gstreamer-1.0,
                valac (>= 0.26)
 Standards-Version: 3.9.3
