@@ -17,4 +17,9 @@
         <value key="x-appcenter-suggested-price">1</value>
     </custom>
     <developer_name>Artem Anufrij</developer_name>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://raw.githubusercontent.com/artemanufrij/metronome/master/Screenshot.png</image>
+        </screenshot>
+    </screenshots>
 </component>
