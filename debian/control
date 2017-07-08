@@ -5,7 +5,6 @@ Maintainer: Artem Anufrij <artem.anufrij@live.de>
 Build-Depends: cmake (>= 2.8),
                cmake-elementary,
                debhelper (>= 9),
-               gstreamer-1.0,
                valac (>= 0.26)
 Standards-Version: 3.9.3
 
