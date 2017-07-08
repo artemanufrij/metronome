@@ -1,5 +1,4 @@
-# metronome for elementary
+# Metronome designed for elementary
 
-A simple mentronome
-
+### A simple mentronome written in Vala
 ![screenshot](Screenshot.png)
