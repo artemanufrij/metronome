@@ -1,5 +1,46 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-05 10:37+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: ../src/Widgets/Presets.vala:43
+msgid "Add Preset"
+msgstr "Voreinstellung hinzufügen"
+
+#: ../src/Widgets/Presets.vala:56
+msgid "Preset title"
+msgstr "Title der Einstellung"
+
+#: ../src/Widgets/PresetRow.vala:85
+msgid "Delete Preset"
+msgstr "Voreinstellung löschen"
+
+#: ../src/Widgets/PresetRow.vala:90
+msgid "Save current Settings"
+msgstr "Aktuelle Einstellung speichern"
+
+#: ../src/Metronome.vala:105
+msgid "Stop"
+msgstr "Stop"
+
+#: ../src/Metronome.vala:113 ../src/Metronome.vala:173
+msgid "Start"
+msgstr "Start"
+
+#: ../src/Metronome.vala:304 ../src/Metronome.vala:310
+msgid "Show Presets"
+msgstr "Voreinstellungen zeigen"
+
+#: ../src/Metronome.vala:314
+msgid "Hide Presets"
+msgstr "Voreinstellungen ausblenden"
