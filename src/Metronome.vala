@@ -52,34 +52,6 @@ namespace Metronome {
             }
         }
 
-        construct {
-            program_name = "Metronome";
-            exec_name = "metronome";
-
-            build_data_dir = Constants.DATADIR;
-            build_pkg_data_dir = Constants.PKGDATADIR;
-            build_release_name = Constants.RELEASE_NAME;
-            build_version = Constants.VERSION;
-            build_version_info = Constants.VERSION_INFO;
-
-            app_years = "2015";
-            app_icon = "metronome";
-            app_launcher = "metronome.desktop";
-            application_id = "net.launchpad.Metronome";
-
-            main_url = "https://code.launchpad.net/metronome";
-            bug_url = "https://bugs.launchpad.net/metronome";
-            help_url = "https://code.launchpad.net/metronome";
-            translate_url = "https://translations.launchpad.net/metronome";
-
-            about_authors = {"Artem Anufrij <artem.anufrij@live.de>"};
-            about_documenters = {"Artem Anufrij <artem.anufrij@live.de>"};
-            about_artists = {"Sam Hewitt",
-                                "Artem Anufrij <artem.anufrij@live.de>"};
-            about_comments = "Development release, not all features implemented";
-            about_translators = "";
-            about_license_type = Gtk.License.GPL_3_0;
-        }
 
         protected override void activate () {
 
