@@ -12,8 +12,8 @@
         <category>Music</category>
     </categories>
     <custom>
-        <value key="x-appcenter-color-primary">#B3D8E0</value>
-        <value key="x-appcenter-color-primary-text">rgb(30,60,65)</value>
+        <value key="x-appcenter-color-primary">#d1ff82</value>
+        <value key="x-appcenter-color-primary-text">rgb(0,0,0)</value>
         <value key="x-appcenter-suggested-price">1</value>
     </custom>
     <developer_name>Artem Anufrij</developer_name>
