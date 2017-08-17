@@ -7,10 +7,5 @@ Icon=artemanufrij.metronome
 Exec=com.github.artemanufrij.metronome %U
 Terminal=false
 Categories=AudioVideo;GNOME;GTK;Audio;
-X-GNOME-Gettext-Domain=metronome
-Actions=AboutDialog;
+X-GNOME-Gettext-Domain=artemanufrij.metronome
 Keywords=Metronome;Click;
-
-[Desktop Action AboutDialog]
-Exec=com.github.artemanufrij.metronome --about
-Name=About Metronome
