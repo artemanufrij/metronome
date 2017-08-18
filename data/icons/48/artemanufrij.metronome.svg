@@ -21,6 +21,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4208">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.4"
+         offset="0"
+         id="stop4210" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4212" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4239">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -253,6 +265,17 @@
        r="2.5"
        gradientTransform="matrix(2.4,0,0,1,-56,-0.5)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4208"
+       id="radialGradient4214"
+       cx="24"
+       cy="-4.5"
+       fx="24"
+       fy="-4.5"
+       r="20"
+       gradientTransform="matrix(1,0,0,0.7,0,7.15)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -261,11 +284,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="24.027543"
-     inkscape:cy="18.435431"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="-17.648589"
+     inkscape:cy="127.34529"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1173"
@@ -378,5 +401,18 @@
        width="2.5000007"
        id="rect4808"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Spot">
+    <rect
+       style="fill:url(#radialGradient4214);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect4190"
+       width="40"
+       height="14"
+       x="4"
+       y="4"
+       ry="3" />
   </g>
 </svg>
