@@ -2,7 +2,7 @@ using Gst;
 
 namespace Metronome {
 
-    public class MetronomeApp : Granite.Application {
+    public class MetronomeApp : Gtk.Application {
 
         public Gtk.Window mainwindow;
 
