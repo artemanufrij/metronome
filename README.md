@@ -5,6 +5,9 @@
 ### A simple metronome designed for [elementary OS](https://elementary.io)
 ![screenshot](Screenshot.png)
 
+## Donations
+If you liked _Metronome_, and would like to support it's development of this app and more, consider [buying me a coffee](https://www.paypal.me/ArtemAnufrij) :)
+
 ### Building and Installation
 
 You'll need the following dependencies:
