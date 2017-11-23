@@ -1,9 +1,16 @@
-# Metronome
-
-[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.artemanufrij.metronome)
-
-### A simple metronome designed for [elementary OS](https://elementary.io)
-![screenshot](Screenshot.png)
+<div>
+    <h1 align="center">Metronome</h1>
+    <h3 align="center">A simple metronome</h3>
+    <p align="center">Designed for <a href="https://elementary.io">elementary OS</p>
+</div>
+<p align="center">
+  <a href="https://appcenter.elementary.io/com.github.artemanufrij.metronome">
+    <img src="https://appcenter.elementary.io/badge.svg" alt="Get it on AppCenter">
+  </a>
+</p>
+<p align="center">
+  <img src="Screenshot.png"/>
+</p>
 
 ## Donations
 If you liked _Metronome_, and would like to support it's development of this app and more, consider [buying me a coffee](https://www.paypal.me/ArtemAnufrij) :)
