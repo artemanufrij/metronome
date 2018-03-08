@@ -188,6 +188,7 @@ namespace Metronome {
 
         private void build_titelbar () {
             var headerbar = new Gtk.HeaderBar ();
+            headerbar.get_style_context ().add_class ("default-decoration");
             headerbar.show_close_button = true;
 
             mainwindow.set_titlebar (headerbar);
