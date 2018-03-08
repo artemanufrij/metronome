@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Metronome</h1>
-    <h3 align="center"><img src="data/icons/64/com.github.artemanufrij.metronome.svg"/><br>A simple metronome</h3>
+    <h3 align="center"><img src="data/icons/com.github.artemanufrij.metronome.svg"/><br>A simple metronome</h3>
     <p align="center">Designed for <a href="https://elementary.io">elementary OS</p>
 </div>
 
