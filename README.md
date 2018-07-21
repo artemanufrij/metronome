@@ -16,27 +16,34 @@
   <img src="Screenshot.png"/>
 </p>
 
-### Building and Installation
+## Install from Github.
 
-You'll need the following dependencies:
-* cmake
-* cmake-elementary
-* debhelper
-* libgstreamer1.0-dev
-* libgranite-dev
-* valac
+As first you need elementary SDK
+```
+sudo apt install elementary-sdk
+```
 
-It's recommended to create a clean build environment
+Install dependencies
+```
+sudo apt install libgstreamer1.0-dev
+```
 
-    mkdir build
-    cd build/
-    
-Run `cmake` to configure the build environment and then `make` to build
+Clone repository and change directory
+```
+git clone https://github.com/artemanufrij/metronome.git
+cd metronome
+```
 
-    cmake -DCMAKE_INSTALL_PREFIX=/usr ..
-    make
+Create **build** folder, compile and start application
+```
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=/usr ..
+make
+```
 
-To install, use `make install`, then execute with `com.github.artemanufrij.metronome`
-
-    sudo make install
-    com.github.artemanufrij.metronome
+Install and start Screencast on your system
+```
+sudo make install
+com.github.artemanufrij.metronome
+```
