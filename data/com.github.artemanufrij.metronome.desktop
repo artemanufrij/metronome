@@ -2,10 +2,13 @@
 Type=Application
 Name=Metronome
 Name[lt]=Metronomas
+Name[fr]=Metronome
 Comment=A simple click
 Comment[lt]=Paprastas spragtelėjimas
+Comment[fr]=Un simple clic
 GenericName=Metronome
 GenericName[lt]=Metronomas
+GenericName[fr]=Metronome
 Icon=com.github.artemanufrij.metronome
 Exec=com.github.artemanufrij.metronome %U
 Terminal=false
