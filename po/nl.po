@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-07 20:40+0200\n"
+"POT-Creation-Date: 2018-12-15 13:46+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: \n"
@@ -13,34 +13,34 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Poedit 2.1.1\n"
 
-#: ../src/Widgets/Presets.vala:43
+#: src/Widgets/Presets.vala:43
 msgid "Add Preset"
 msgstr "Voorinstelling toevoegen"
 
-#: ../src/Widgets/Presets.vala:56
+#: src/Widgets/Presets.vala:56
 msgid "Preset title"
 msgstr "Titel van voorinstelling"
 
-#: ../src/Widgets/PresetRow.vala:85
+#: src/Widgets/PresetRow.vala:85
 msgid "Delete Preset"
 msgstr "Voorinstelling verwijderen"
 
-#: ../src/Widgets/PresetRow.vala:90
+#: src/Widgets/PresetRow.vala:90
 msgid "Save current Settings"
 msgstr "Huidige instellingen opslaan"
 
-#: ../src/Metronome.vala:105
+#: src/Metronome.vala:77
 msgid "Stop"
 msgstr "Stoppen"
 
-#: ../src/Metronome.vala:113 ../src/Metronome.vala:173
+#: src/Metronome.vala:85 src/Metronome.vala:145
 msgid "Start"
 msgstr "Starten"
 
-#: ../src/Metronome.vala:304 ../src/Metronome.vala:310
+#: src/Metronome.vala:279 src/Metronome.vala:285
 msgid "Show Presets"
 msgstr "Voorinstellingen tonen"
 
-#: ../src/Metronome.vala:314
+#: src/Metronome.vala:289
 msgid "Hide Presets"
 msgstr "Voorinstellingen verbergen"
