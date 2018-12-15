@@ -36,15 +36,10 @@ git clone https://github.com/artemanufrij/metronome.git
 cd metronome
 ```
 
-Configure the build environment and build the application
+Compile, install and start Metronome on your system
 ```
 meson build --prefix=/usr
 cd build
-ninja
-```
-
-Install and start Screencast on your system
-```
 sudo ninja install
 com.github.artemanufrij.metronome
 ```
