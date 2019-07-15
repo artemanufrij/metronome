@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-02 23:10+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:7
+#: data/com.github.artemanufrij.metronome.desktop.in:4
+#: data/com.github.artemanufrij.metronome.desktop.in:10
+msgid "Metronome"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:8
+#: data/com.github.artemanufrij.metronome.desktop.in:7
+msgid "A simple click"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:10
+msgid ""
+"A simple metronome for all musicians that helps to practice several rythms "
+"at many speeds"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:20
+msgid "Artem Anufrij"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:32
+msgid "Prepare for JUNO"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.desktop.in:13
+msgid "com.github.artemanufrij.metronome"
+msgstr ""
+
+#: data/com.github.artemanufrij.metronome.desktop.in:18
+msgid "Metronome;Click;"
+msgstr ""

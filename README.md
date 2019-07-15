@@ -36,16 +36,10 @@ git clone https://github.com/artemanufrij/metronome.git
 cd metronome
 ```
 
-Create **build** folder, compile and start application
+Compile, install and start Metronome on your system
 ```
-mkdir build
+meson build --prefix=/usr
 cd build
-cmake -DCMAKE_INSTALL_PREFIX=/usr ..
-make
-```
-
-Install and start Screencast on your system
-```
-sudo make install
+sudo ninja install
 com.github.artemanufrij.metronome
 ```
