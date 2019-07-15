@@ -28,6 +28,16 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.0.0" date="2019-07-15">
+            <description>
+                Moved to meson (by Ryo Nakano)
+                <p>Translation:</p>
+                <ul>
+                    <li>French (by dabou)</li>
+                    <li>Dutch (by Heimen Stoffels)</li>
+                </ul>
+            </description>
+        </release>
         <release version="0.3.0" date="2018-07-24">
             <description>
                 Prepare for JUNO
