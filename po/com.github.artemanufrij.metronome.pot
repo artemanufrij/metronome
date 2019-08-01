@@ -1,50 +1,50 @@
-# Dutch translations for com.github.artemanufrij.metronome package.
-# Copyright (C) 2019 THE com.github.artemanufrij.metronome'S COPYRIGHT HOLDER
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.artemanufrij.metronome package.
-# Heimen Stoffels <vistausss@outlook.com>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: com.github.artemanufrij.metronome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-01 11:32+0200\n"
-"PO-Revision-Date: 2019-08-01 11:28+0200\n"
-"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
-"Language-Team: none\n"
-"Language: nl\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/Widgets/Presets.vala:43
 msgid "Add Preset"
-msgstr "Voorinstelling toevoegen"
+msgstr ""
 
 #: src/Widgets/Presets.vala:56
 msgid "Preset title"
-msgstr "Titel van voorinstelling"
+msgstr ""
 
 #: src/Widgets/PresetRow.vala:85
 msgid "Delete Preset"
-msgstr "Voorinstelling verwijderen"
+msgstr ""
 
 #: src/Widgets/PresetRow.vala:90
 msgid "Save current Settings"
-msgstr "Huidige instellingen opslaan"
+msgstr ""
 
 #: src/Metronome.vala:77
 msgid "Stop"
-msgstr "Stoppen"
+msgstr ""
 
 #: src/Metronome.vala:85 src/Metronome.vala:145
 msgid "Start"
-msgstr "Starten"
+msgstr ""
 
 #: src/Metronome.vala:279 src/Metronome.vala:285
 msgid "Show Presets"
-msgstr "Voorinstellingen tonen"
+msgstr ""
 
 #: src/Metronome.vala:289
 msgid "Hide Presets"
-msgstr "Voorinstellingen verbergen"
+msgstr ""
