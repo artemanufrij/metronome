@@ -27,13 +27,13 @@ namespace Metronome.Widgets {
             title_label.get_style_context ().add_class ("h3");
             title_label.expand = true;
             // LABEL
-            tempo_label = new Gtk.Label ("<b>%d</b> BPM".printf((int)preset.tempo));
+            tempo_label = new Gtk.Label ("<b>%d</b> ".printf((int)preset.tempo) + _("BPM"));
             tempo_label.use_markup = true;
             tempo_label.halign = Gtk.Align.END;
             tempo_label.opacity = 0.6;
             tempo_label.margin_right = 12;
 
-            beat_label = new Gtk.Label ("<b>%d</b> Beat".printf((int)preset.beat));
+            beat_label = new Gtk.Label ("<b>%d</b> ".printf((int)preset.beat) + _("Beat"));
             beat_label.use_markup = true;
             beat_label.halign = Gtk.Align.END;
             beat_label.opacity = 0.6;

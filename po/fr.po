@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.artemanufrij.metronome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-01 11:32+0200\n"
+"POT-Creation-Date: 2019-08-01 12:02+0200\n"
 "PO-Revision-Date: 2019-08-01 11:28+0200\n"
 "Last-Translator: NathanBnm\n"
 "Language-Team: none\n"
@@ -25,6 +25,14 @@ msgstr "Ajouter un réglage"
 #: src/Widgets/Presets.vala:56
 msgid "Preset title"
 msgstr "Titre du réglage"
+
+#: src/Widgets/PresetRow.vala:30 src/Metronome.vala:214
+msgid "BPM"
+msgstr "BPM"
+
+#: src/Widgets/PresetRow.vala:36 src/Metronome.vala:247
+msgid "Beat"
+msgstr "Rythme"
 
 #: src/Widgets/PresetRow.vala:85
 msgid "Delete Preset"
