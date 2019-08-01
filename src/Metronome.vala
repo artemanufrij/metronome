@@ -195,8 +195,8 @@ namespace Metronome {
             mainwindow.window_position = Gtk.WindowPosition.CENTER;
 
             var settings_buttons = new Granite.Widgets.ModeButton ();
-            settings_buttons.margin_left = 24;
-            settings_buttons.margin_right = 24;
+            settings_buttons.margin_start = 24;
+            settings_buttons.margin_end = 24;
             settings_buttons.mode_changed.connect(() => {
                 if (settings_buttons.selected == 0) {
                     tempo_popover.show_all ();
