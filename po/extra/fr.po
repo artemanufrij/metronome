@@ -1,63 +1,65 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# French translations for extra package.
+# Copyright (C) 2019 THE extra'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the extra package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# NathanBnm, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-01 11:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-08-01 11:28+0200\n"
+"Last-Translator: NathanBnm\n"
+"Language-Team: none\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:4
 #: data/com.github.artemanufrij.metronome.desktop.in:6
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:7
 msgid "Metronome"
-msgstr ""
+msgstr "Métronome"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:5
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:8
 msgid "A simple click"
-msgstr ""
+msgstr "Un simple clic"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:7
 msgid "com.github.artemanufrij.metronome"
-msgstr ""
+msgstr "com.github.artemanufrij.metronome"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:12
 msgid "Metronome;Click;"
-msgstr ""
+msgstr "Métronome;Clic;"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:10
 msgid ""
 "A simple metronome for all musicians that helps to practice several rythms "
 "at many speeds"
 msgstr ""
+"Un simple métronome pour tous les musiciens, pour apprendre à pratiquer avec différents rythmes "
+"a différentes vitesses"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:20
 msgid "Artem Anufrij"
-msgstr ""
+msgstr "Artem Anufrij"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:34
 msgid "Translation:"
-msgstr ""
+msgstr "Tradution :"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:36
 msgid "French (by dabou)"
-msgstr ""
+msgstr "Français (by dabou)"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:37
 msgid "Dutch (by Heimen Stoffels)"
-msgstr ""
+msgstr "Néerlandais (par Heimen Stoffels)"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:42
 msgid "Prepare for JUNO"
-msgstr ""
+msgstr "Préparation pour JUNO"

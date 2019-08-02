@@ -211,7 +211,7 @@ namespace Metronome {
             // TEMPO button
             var tempo_button = new Gtk.Grid ();
             tempo_value = new Gtk.Label ("<b>%d</b>".printf (settings.tempo)) { use_markup = true };
-            var tempo_bpm = new Gtk.Label ("<small>BPM</small>") { use_markup = true };
+            var tempo_bpm = new Gtk.Label ("<small>" + _("BPM") + "</small>") { use_markup = true };
 
             tempo_button.attach (tempo_value, 0, 0, 1, 1);
             tempo_button.attach (tempo_bpm, 0, 1, 1, 1);
@@ -244,7 +244,7 @@ namespace Metronome {
             // BEAT button
             var beat_button = new Gtk.Grid ();
             beat_value = new Gtk.Label ("<b>%d</b>".printf (settings.beat)) { use_markup = true };
-            var beat_beat = new Gtk.Label ("<small>Beat</small>") { use_markup = true };
+            var beat_beat = new Gtk.Label ("<small>" + _("Beat") + "</small>") { use_markup = true };
 
             beat_button.attach (beat_value, 0, 0, 1, 1);
             beat_button.attach (beat_beat, 0, 1, 1, 1);
