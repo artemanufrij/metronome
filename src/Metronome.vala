@@ -195,8 +195,8 @@ namespace Metronome {
             mainwindow.window_position = Gtk.WindowPosition.CENTER;
 
             var settings_buttons = new Granite.Widgets.ModeButton ();
-            settings_buttons.margin_left = 24;
-            settings_buttons.margin_right = 24;
+            settings_buttons.margin_start = 24;
+            settings_buttons.margin_end = 24;
             settings_buttons.margin_top = 4;
             settings_buttons.margin_bottom = 4;
             settings_buttons.mode_changed.connect(() => {
@@ -213,7 +213,7 @@ namespace Metronome {
             // TEMPO button
             var tempo_button = new Gtk.Grid ();
             tempo_value = new Gtk.Label ("<b>%d</b>".printf (settings.tempo)) { use_markup = true };
-            var tempo_bpm = new Gtk.Label ("<small>BPM</small>") { use_markup = true };
+            var tempo_bpm = new Gtk.Label ("<small>" + _("BPM") + "</small>") { use_markup = true };
 
             tempo_button.attach (tempo_value, 0, 0, 1, 1);
             tempo_button.attach (tempo_bpm, 0, 1, 1, 1);
@@ -246,7 +246,7 @@ namespace Metronome {
             // BEAT button
             var beat_button = new Gtk.Grid ();
             beat_value = new Gtk.Label ("<b>%d</b>".printf (settings.beat)) { use_markup = true };
-            var beat_beat = new Gtk.Label ("<small>Beat</small>") { use_markup = true };
+            var beat_beat = new Gtk.Label ("<small>" + _("Beat") + "</small>") { use_markup = true };
 
             beat_button.attach (beat_value, 0, 0, 1, 1);
             beat_button.attach (beat_beat, 0, 1, 1, 1);
