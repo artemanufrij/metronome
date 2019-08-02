@@ -31,13 +31,13 @@ namespace Metronome.Widgets {
             tempo_label.use_markup = true;
             tempo_label.halign = Gtk.Align.END;
             tempo_label.opacity = 0.6;
-            tempo_label.margin_right = 12;
+            tempo_label.margin_end = 12;
 
             beat_label = new Gtk.Label ("<b>%d</b> ".printf((int)preset.beat) + _("Beat"));
             beat_label.use_markup = true;
             beat_label.halign = Gtk.Align.END;
             beat_label.opacity = 0.6;
-            beat_label.margin_right = 6;
+            beat_label.margin_end = 6;
 
 
             // ACTION MENU
