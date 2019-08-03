@@ -197,6 +197,8 @@ namespace Metronome {
             var settings_buttons = new Granite.Widgets.ModeButton ();
             settings_buttons.margin_start = 24;
             settings_buttons.margin_end = 24;
+            settings_buttons.margin_top = 4;
+            settings_buttons.margin_bottom = 4;
             settings_buttons.mode_changed.connect(() => {
                 if (settings_buttons.selected == 0) {
                     tempo_popover.show_all ();
