@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.artemanufrij.metronome\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-01 12:02+0200\n"
-"PO-Revision-Date: 2019-08-01 11:28+0200\n"
+"PO-Revision-Date: 2019-08-04 12:28+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: none\n"
 "Language: nl\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: src/Widgets/Presets.vala:43
 msgid "Add Preset"
@@ -23,15 +24,15 @@ msgstr "Voorinstelling toevoegen"
 
 #: src/Widgets/Presets.vala:56
 msgid "Preset title"
-msgstr "Titel van voorinstelling"
+msgstr "Naam van voorinstelling"
 
 #: src/Widgets/PresetRow.vala:30 src/Metronome.vala:214
 msgid "BPM"
-msgstr ""
+msgstr "BPM"
 
 #: src/Widgets/PresetRow.vala:36 src/Metronome.vala:247
 msgid "Beat"
-msgstr ""
+msgstr "Beat"
 
 #: src/Widgets/PresetRow.vala:85
 msgid "Delete Preset"
