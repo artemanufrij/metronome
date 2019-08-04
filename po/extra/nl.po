@@ -8,56 +8,59 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-01 11:32+0200\n"
-"PO-Revision-Date: 2019-08-01 11:28+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-08-04 12:28+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: none\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:4
 #: data/com.github.artemanufrij.metronome.desktop.in:6
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:7
 msgid "Metronome"
-msgstr ""
+msgstr "Metronome"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:5
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:8
 msgid "A simple click"
-msgstr ""
+msgstr "Eenvoudig getik"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:7
 msgid "com.github.artemanufrij.metronome"
-msgstr ""
+msgstr "com.github.artemanufrij.metronome"
 
 #: data/com.github.artemanufrij.metronome.desktop.in:12
 msgid "Metronome;Click;"
-msgstr ""
+msgstr "Metronome;Getik;"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:10
 msgid ""
 "A simple metronome for all musicians that helps to practice several rythms "
 "at many speeds"
 msgstr ""
+"Een eenvoudige metronoom die alle muzikanten helpt om verschillende "
+"soorten ritmes onder de knie te krijgen"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:20
 msgid "Artem Anufrij"
-msgstr ""
+msgstr "Artem Anufrij"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:34
 msgid "Translation:"
-msgstr ""
+msgstr "Vertaling:"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:36
 msgid "French (by dabou)"
-msgstr ""
+msgstr "Frans (door dabou)"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:37
 msgid "Dutch (by Heimen Stoffels)"
-msgstr ""
+msgstr "Nederlands (door Heimen Stoffels)"
 
 #: data/com.github.artemanufrij.metronome.appdata.xml.in:42
 msgid "Prepare for JUNO"
-msgstr ""
+msgstr "Voorbereiding voor JUNO"
