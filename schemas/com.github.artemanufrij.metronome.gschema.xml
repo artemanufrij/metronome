@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-    <schema path="/org/pantheon/metronome/" id="org.pantheon.metronome" gettext-domain="metronome">
+    <schema path="/com/github/artemanufrij/metronome/" id="com.github.artemanufrij.metronome" gettext-domain="metronome">
         <key name="volume-semibreve" type="d">
             <default>0.5</default>
             <summary>Volume semibreve</summary>
