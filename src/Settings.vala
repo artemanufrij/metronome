@@ -15,6 +15,6 @@ public class Metronome.Settings : Granite.Services.Settings {
     public int beat { get; set; }
     public string [] custom_settings { get; set; }
     private Settings () {
-        base ("org.pantheon.metronome");
+        base ("com.github.artemanufrij.metronome");
     }
 }
