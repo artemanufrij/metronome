@@ -40,7 +40,7 @@ msgstr "Apagar Predefinição"
 
 #: src/Widgets/PresetRow.vala:90
 msgid "Save current Settings"
-msgstr "Gravar Definições atuais"
+msgstr "Guardar Definições atuais"
 
 #: src/Metronome.vala:77
 msgid "Stop"
