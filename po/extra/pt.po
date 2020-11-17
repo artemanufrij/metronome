@@ -1,0 +1,66 @@
+# Portuguese (Portugal) translations for com.github.artemanufrij.metronome package.
+# Copyright (C) 2019 THE com.github.artemanufrij.metronome'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.artemanufrij.metronome package.
+# André Barata <andretiagob@protonmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-01 11:32+0200\n"
+"PO-Revision-Date: 2020-08-30 12:09+0100\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: André Barata <andretiagob@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
+
+#: data/com.github.artemanufrij.metronome.desktop.in:4
+#: data/com.github.artemanufrij.metronome.desktop.in:6
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:7
+msgid "Metronome"
+msgstr "Metronome"
+
+#: data/com.github.artemanufrij.metronome.desktop.in:5
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:8
+msgid "A simple click"
+msgstr "Um clique simples"
+
+#: data/com.github.artemanufrij.metronome.desktop.in:7
+msgid "com.github.artemanufrij.metronome"
+msgstr "com.github.artemanufrij.metronome"
+
+#: data/com.github.artemanufrij.metronome.desktop.in:12
+msgid "Metronome;Click;"
+msgstr "Metronome;Metrónomo;Click;Clique;"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:10
+msgid ""
+"A simple metronome for all musicians that helps to practice several rythms "
+"at many speeds"
+msgstr ""
+"Um metrónomo simples para todos os músicos que os ajuda a praticar vários "
+"ritmos a várias velocidades"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:20
+msgid "Artem Anufrij"
+msgstr "Artem Anufrij"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:34
+msgid "Translation:"
+msgstr "Traduções:"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:36
+msgid "French (by dabou)"
+msgstr "Francês (por dabou)"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:37
+msgid "Dutch (by Heimen Stoffels)"
+msgstr "Holandês (por Heimen Stoffels)"
+
+#: data/com.github.artemanufrij.metronome.appdata.xml.in:42
+msgid "Prepare for JUNO"
+msgstr "Preparação para o JUNO"
