@@ -1,6 +1,6 @@
 namespace Metronome.Objects {
 
-    public enum click_state { running, stoped }
+    public enum click_state { running, stopped }
     public enum click_interval { semibreve, minim, crotchet, quaver }
 
     public class Click : GLib.Object {
@@ -43,7 +43,7 @@ namespace Metronome.Objects {
         }
 
         public Click () {
-            current_state = click_state.stoped;
+            current_state = click_state.stopped;
             click_count = 0;
             beat_count = 0;
         }
@@ -59,7 +59,7 @@ namespace Metronome.Objects {
             do_click.begin ();
 
             timer_uint = GLib.Timeout.add (interval, () => {
-                if (current_state == click_state.stoped)
+                if (current_state == click_state.stopped)
                     return false;
 
                 do_click.begin ();
@@ -72,7 +72,7 @@ namespace Metronome.Objects {
                 GLib.Source.remove (timer_uint);
                 timer_uint = 0;
             }
-            current_state = click_state.stoped;
+            current_state = click_state.stopped;
             click_count = 0;
             beat_count = 0;
         }
